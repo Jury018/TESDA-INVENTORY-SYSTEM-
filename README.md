@@ -3,7 +3,7 @@
 ## Description 📝
 The Inventory Management System is a Java-based application developed using NetBeans IDE, with MySQL database managed through XAMPP Server.Revision and rework by BONFIRE for more info kindly reach out to the new owner by the provided link below 
 
-Portfolio:https://github.com/Jury018/MY-PORTFOLIO-
+Facebook:https://www.facebook.com/share/1GdyYRVymW/
 
 ## Features ✨
 - Add, update, delete inventory items 🖥️
